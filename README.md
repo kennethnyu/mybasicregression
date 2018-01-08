@@ -1,1 +1,1 @@
-# mybasicregression
+# Basic Linear Regression
